@@ -1,7 +1,6 @@
 @charset "utf-8";
 
 body{
-    font-family: "Hiragino Kaku","Yu Cothic","Meiryo",sans-serif;
     background-image: url(img/hananbi.png);
     background-size:cover;
 }
