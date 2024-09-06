@@ -1,12 +1,15 @@
 @charset "utf-8";
-.body{
+
+body{
     font-family: "Hiragino Kaku","Yu Cothic","Meiryo",sans-serif;
-    background-image: url(hananbi.png);
+    background-image: url(img/hananbi.png);
     background-size:cover;
 }
+
 p{
-    color:white
+    color:white;
 }
+
 h1{
     font-size: 40px;
     color: #ffffff;
@@ -21,25 +24,31 @@ h2{
     border-left: 10px solid #faa03a;
     background-color: #17aab5;
 }
+
 p{
     font-size: 18px;
     line-height: 1.8;
 }
+
 ul{
     color: #ffffff;
     font-size: 20px;
 }
+
 h3{
    color: rgb(0, 0, 0);
    -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: #ffffff;
 }
+
 output{
     background-color: #ffffff;
 }
+
 h4{
     color:white;
 }
+
 h5{
     text-align:right;
     color: #ffffff;
