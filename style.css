@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+body{
+    font-family: "Hiragino Kaku","Yu Cothic","Meiryo",sans-serif;
+    background-image: url(https://github.com/pensaan/TSM_21/blob/main/img/hananbi.png?raw=true);
+    background-size:cover;
+}
+
+p{
+    color:white;
+}
+
+h1{
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: solid 4px #17aab5;
+    width: 380px;
+    margin: 40px auto;
+}
+h2{
+    font-size: 24px;
+    color: #ffffff;
+    border-left: 10px solid #faa03a;
+    background-color: #17aab5;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+ul{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+h3{
+   color: rgb(0, 0, 0);
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #ffffff;
+}
+
+output{
+    background-color: #ffffff;
+}
+
+h4{
+    color:white;
+}
+
+h5{
+    text-align:right;
+    color: #ffffff;
+}
