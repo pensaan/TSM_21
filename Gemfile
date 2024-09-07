@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 # Even though we don't officially support JRuby, this dependency makes Faraday
 # compatible with it, so we're leaving it in for jruby users to use it.
 gem 'jruby-openssl', '~> 0.11.0', platforms: :jruby
+gem 'faraday-retry',
 
 group :development, :test do
   gem 'bake-test-external'
@@ -27,3 +28,4 @@ group :development, :lint do
 end
 
 gemspec
+bundle install
